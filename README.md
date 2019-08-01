@@ -1,2 +1,2 @@
 # odoo_external_addons
-Odoo external module library
+This repository contains external modules for odoo projects
